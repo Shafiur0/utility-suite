@@ -71,4 +71,4 @@ This project is licensed under the MIT License.
 Shafiur Rahman
 
 GitHub: https://github.com/Shafiur0
-⭐ If you found this project useful, consider giving it a star!
+⭐ If you found this project useful, consider giving it a star!..
